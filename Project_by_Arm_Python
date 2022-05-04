@@ -1,6 +1,7 @@
 #Instagram - @geworgiean
 #Facebook - Արման Գևորգյան https://www.facebook.com/profile.php?id=100010747989701
 #Twitter - @Geworgiean
+
 import turtle
 
 pen = turtle.Turtle()
@@ -34,11 +35,11 @@ def txt():
 
 	pen.up()
 
-	pen.setpos(-68, 95)
+	pen.setpos(-70, 95)
 
 	pen.down()
 
-	pen.color('lightgreen')
+	pen.color('black')
 
 	pen.write("@geworgiean", font=(
 	"Arman", 12, "bold"))
